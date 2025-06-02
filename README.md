@@ -27,3 +27,4 @@ Um framework Python genérico e configurável para baixar materiais de apoio e, 
 Na pasta raiz do projeto, execute:
 ```bash
 pip install -r requirements.txt# Organizador-de-Cursos
+# Organizador-de-Cursos
